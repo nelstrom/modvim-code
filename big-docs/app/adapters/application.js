@@ -1,0 +1,1 @@
+// app/adapters/application.js

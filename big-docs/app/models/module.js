@@ -1,0 +1,1 @@
+// app/models/module.js

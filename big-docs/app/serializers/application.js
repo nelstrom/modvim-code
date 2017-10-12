@@ -1,0 +1,1 @@
+// app/serializers/application.js
